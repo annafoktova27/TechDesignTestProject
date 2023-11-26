@@ -32,11 +32,6 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-  - m_GUID: d7457eb38a0f27c44af90d4c58db0d22
-    m_Address: Russian (ru)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 6ddfc3e9e0ecea14c9da24b4f52e8a7c, type: 2}
   m_SchemaSet:

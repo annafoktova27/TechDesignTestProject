@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e651d025d87613b4093a44d918bb903e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Journey Handwriting Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 244aa09237cc5f540bb84b69e219c2bf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
